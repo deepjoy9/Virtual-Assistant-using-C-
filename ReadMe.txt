@@ -17,3 +17,4 @@ To open a browser: system("start url of browser"); Example: system("start https:
 
 To open .exe files such as ms word,paint,excel notepad etc: CreateProcess(TEXT("file path"), NULL, NULL, NULL, FALSE, NULL, NULL, NULL, &startInfo, &processInfo);
 
+![VirtualAssistant Screenshot](https://user-images.githubusercontent.com/49182381/175347247-0c9c35ba-8242-4780-bd94-7f6cc5b362e2.PNG)
